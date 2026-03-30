@@ -57,14 +57,14 @@ namespace algo::segmentTree {
         for (int i = 0, o, l, r; i < m; ++i) {
             std::cin >> o >> l >> r;
 
-            switch (o) {
-                case 1: int x; std::cin >> x;
-
-
-                case 2:
-
-                default:
-            }
+            // switch (o) {
+            //     case 1: int x; std::cin >> x;
+            //
+            //
+            //     case 2:
+            //
+            //     default:
+            // }
         }
     }
 
